@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+bappi@bappi-pc:~/Documents/REACT DEVELOPMENT/react-youtube/youtube-clone$ cd src
+bappi@bappi-pc:~/Documents/REACT DEVELOPMENT/react-youtube/youtube-clone/src$ rm -f *
+
+sudo npm install --save axios
+
